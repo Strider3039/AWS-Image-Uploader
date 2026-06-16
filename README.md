@@ -4,7 +4,7 @@
 This project is a work in progress and may not be finished at the time of reading.
 
 ## Description
-I am aiming to make an image upload service that allows users to upload images through a frontend portal which will travel through an AWS pipeline. 
+I am aiming to make an image upload service that allows users to upload images through a frontend portal which will travel through an AWS pipeline, to eventually reach the uploads database. 
 
 This pipeline includes:
 
