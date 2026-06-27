@@ -1,10 +1,7 @@
 # AWS-Image-Uploader
 
-**Disclaimer:**
-This project is a work in progress and may not be finished at the time of reading.
-
 ## Description
-I am aiming to make an image upload service that allows users to upload images through a frontend portal. These images will be saved in an s3 bucket and the metadata will be saved in a database through rds.
+Made an image upload service that allows users to upload images through a frontend portal. These images will be saved in an s3 bucket and the metadata will be saved in a database through rds.
 
 This pipeline includes:
 
